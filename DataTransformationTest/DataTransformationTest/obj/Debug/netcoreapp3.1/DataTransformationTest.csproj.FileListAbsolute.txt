@@ -1,0 +1,13 @@
+C:\Users\Xaear\source\repos\DataTransformationTest\DataTransformationTest\obj\Debug\netcoreapp3.1\DataTransformationTest.csprojAssemblyReference.cache
+C:\Users\Xaear\source\repos\DataTransformationTest\DataTransformationTest\obj\Debug\netcoreapp3.1\DataTransformationTest.AssemblyInfoInputs.cache
+C:\Users\Xaear\source\repos\DataTransformationTest\DataTransformationTest\obj\Debug\netcoreapp3.1\DataTransformationTest.AssemblyInfo.cs
+C:\Users\Xaear\source\repos\DataTransformationTest\DataTransformationTest\obj\Debug\netcoreapp3.1\DataTransformationTest.csproj.CoreCompileInputs.cache
+C:\Users\Xaear\source\repos\DataTransformationTest\DataTransformationTest\bin\Debug\netcoreapp3.1\DataTransformationTest.exe
+C:\Users\Xaear\source\repos\DataTransformationTest\DataTransformationTest\bin\Debug\netcoreapp3.1\DataTransformationTest.deps.json
+C:\Users\Xaear\source\repos\DataTransformationTest\DataTransformationTest\bin\Debug\netcoreapp3.1\DataTransformationTest.runtimeconfig.json
+C:\Users\Xaear\source\repos\DataTransformationTest\DataTransformationTest\bin\Debug\netcoreapp3.1\DataTransformationTest.runtimeconfig.dev.json
+C:\Users\Xaear\source\repos\DataTransformationTest\DataTransformationTest\bin\Debug\netcoreapp3.1\DataTransformationTest.dll
+C:\Users\Xaear\source\repos\DataTransformationTest\DataTransformationTest\bin\Debug\netcoreapp3.1\DataTransformationTest.pdb
+C:\Users\Xaear\source\repos\DataTransformationTest\DataTransformationTest\obj\Debug\netcoreapp3.1\DataTransformationTest.dll
+C:\Users\Xaear\source\repos\DataTransformationTest\DataTransformationTest\obj\Debug\netcoreapp3.1\DataTransformationTest.pdb
+C:\Users\Xaear\source\repos\DataTransformationTest\DataTransformationTest\obj\Debug\netcoreapp3.1\DataTransformationTest.genruntimeconfig.cache

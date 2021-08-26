@@ -1,0 +1,13 @@
+C:\Users\Xaear\source\repos\ConnectWiseApp\ConnectWiseApp\bin\Debug\netcoreapp3.1\ConnectWiseApp.exe
+C:\Users\Xaear\source\repos\ConnectWiseApp\ConnectWiseApp\bin\Debug\netcoreapp3.1\ConnectWiseApp.deps.json
+C:\Users\Xaear\source\repos\ConnectWiseApp\ConnectWiseApp\bin\Debug\netcoreapp3.1\ConnectWiseApp.runtimeconfig.json
+C:\Users\Xaear\source\repos\ConnectWiseApp\ConnectWiseApp\bin\Debug\netcoreapp3.1\ConnectWiseApp.runtimeconfig.dev.json
+C:\Users\Xaear\source\repos\ConnectWiseApp\ConnectWiseApp\bin\Debug\netcoreapp3.1\ConnectWiseApp.dll
+C:\Users\Xaear\source\repos\ConnectWiseApp\ConnectWiseApp\bin\Debug\netcoreapp3.1\ConnectWiseApp.pdb
+C:\Users\Xaear\source\repos\ConnectWiseApp\ConnectWiseApp\obj\Debug\netcoreapp3.1\ConnectWiseApp.AssemblyInfoInputs.cache
+C:\Users\Xaear\source\repos\ConnectWiseApp\ConnectWiseApp\obj\Debug\netcoreapp3.1\ConnectWiseApp.AssemblyInfo.cs
+C:\Users\Xaear\source\repos\ConnectWiseApp\ConnectWiseApp\obj\Debug\netcoreapp3.1\ConnectWiseApp.csproj.CoreCompileInputs.cache
+C:\Users\Xaear\source\repos\ConnectWiseApp\ConnectWiseApp\obj\Debug\netcoreapp3.1\ConnectWiseApp.dll
+C:\Users\Xaear\source\repos\ConnectWiseApp\ConnectWiseApp\obj\Debug\netcoreapp3.1\ConnectWiseApp.pdb
+C:\Users\Xaear\source\repos\ConnectWiseApp\ConnectWiseApp\obj\Debug\netcoreapp3.1\ConnectWiseApp.genruntimeconfig.cache
+C:\Users\Xaear\source\repos\ConnectWiseApp\ConnectWiseApp\obj\Debug\netcoreapp3.1\ConnectWiseApp.csprojAssemblyReference.cache
